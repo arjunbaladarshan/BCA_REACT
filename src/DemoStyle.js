@@ -1,5 +1,6 @@
 import st1 from './dev1.module.css';
 import st2 from './dev2.module.css';
+import Menu from './parts/Menu';
 function DemoStyle(){
     return(
         <>
